@@ -85,6 +85,8 @@ const gameDraw = () => {
 const resetGame = () => {
   turnO = true;
   count = 0;
+  enableBoxes();
+  msgContainer.classList.add("hide");
 };
 
 newBtn.addEventListener("click", resetGame);
