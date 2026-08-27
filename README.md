@@ -20,18 +20,8 @@ A simple and interactive two-player Tic Tac Toe game built with vanilla HTML, CS
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/tic-tac-toe-game.git
-   ```
-
-2. Open the project folder:
-
-   ```bash
-   cd tic-tac-toe-game
-   ```
-
+1. Clone the repository.
+2. Open the project folder.
 3. Open `index.html` in your preferred web browser.
 
 ## 📁 Project Structure
