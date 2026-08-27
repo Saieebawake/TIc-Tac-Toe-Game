@@ -15,7 +15,7 @@ const winPatterns = [
   [2, 4, 6],
   [2, 5, 8],
   [3, 4, 5],
-  [6, 7, 8],
+  [6, 7, 8]
 ];
 
 boxes.forEach((box) => {
