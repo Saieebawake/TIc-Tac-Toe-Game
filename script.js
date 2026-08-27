@@ -86,3 +86,6 @@ const resetGame = () => {
   turnO = true;
   count = 0;
 };
+
+newBtn.addEventListener("click", resetGame);
+resetBtn.addEventListener("click", resetGame);
